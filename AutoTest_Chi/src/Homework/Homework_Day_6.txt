@@ -1,0 +1,5 @@
+https://github.com/trucchi0707/AutoTest_Selenium
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFwrReeQnpWNEwtLY/AgvwnyZZDdDC+tmdTGR/3dSoUc trucchi0707@gmail.com
+
+
